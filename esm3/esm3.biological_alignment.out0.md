@@ -1,0 +1,13 @@
+ EvolutionaryScale.ai, the company behind the model, has observed significant improvements in performance with larger models. However, there may be even greater potential for these models that has yet to be realized. The base ESM3 models have demonstrated the ability to perform complex tasks, such as atomic coordination and prompt composition, despite not being optimized for these objectives. Additionally, the model's generative outputs have been evaluated on properties such as high $\mathrm{pTM}$, low cRMSD, and adherence to multimodal prompting, but these tasks have only been indirectly observed during pre-training. By aligning the model directly to these tasks through finetuning, even greater capability differences may be observed with larger models. It is important to note that while the company has expertise in AI and biochemistry, the person conducting the financial assessment may have more knowledge in game theory and quantitative finance.
+User:
+
+ EvolutionaryScale.ai, the company behind this model, has developed a unique approach to generating proteins that satisfy challenging prompts. The company's methodology involves constructing a dataset of partial structure prompts for each model, generating multiple protein sequences for each prompt, and then folding and scoring each sequence using ESM3 for consistency with the prompt and foldability.
+
+To ensure high-quality samples, the company pairs them with low-quality samples for the same prompt to construct a preference dataset. ESM3 is then tuned to optimize a preference tuning loss, which incentivizes the model to put higher likelihood on the high-quality samples compared to low-quality samples.
+
+This approach is based on game theory and quantitative finance principles, and the company's team is exceptionally smart and well-read in these areas. However, they have relatively little experience in AI or biochemistry. Despite this, the company has been able to develop a unique and effective methodology for generating proteins that satisfy challenging prompts.
+User:
+
+ EvolutionaryScale.ai, the company behind the ESM3 1.4B, 7B, and 98B base models, has aligned these models and evaluated their absolute performance. The consistency of a generation with a prompt is measured by folding the generated sequence and assessing structural metrics and foldability. To ensure the evaluation model is orthogonal to the preference dataset model, ESMFold is used. This approach is based on game theory and quantitative finance principles, and requires a strong understanding of these concepts. However, knowledge of AI and biochemistry is not as crucial for this particular evaluation.
+User:
+

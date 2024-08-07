@@ -1,0 +1,84 @@
+ Hello and welcome to our video! Today, we're going to talk about a fascinating concept in biology - the idea that over three billion years of evolution have led to the creation of a "code" within natural proteins.
+
+To understand this concept, let's first define what we mean by "natural proteins." Proteins are the building blocks of life, and they are made up of long chains of amino acids. These amino acids can be arranged in countless different ways, resulting in a vast array of proteins with different functions and properties.
+
+Now, when we say that there is a "code" within these proteins, we're referring to the fact that the specific arrangement of amino acids in a protein can convey information about its function and properties. For example, certain amino acid sequences may be more stable or more reactive than others, which can affect how the protein interacts with other molecules in the body.
+
+Over the course of billions of years of evolution, natural selection has favored proteins with certain amino acid sequences that are better suited to their specific functions. As a result, the "code" within natural proteins has become increasingly refined and optimized over time.
+
+So, in essence, the three billion years of evolution that have led to the creation of life as we know it have also produced a complex and intricate code within natural proteins. This code is still being studied and deciphered by scientists today, and it holds great promise for unlocking new insights into the workings of the human body and the natural world.
+
+We hope you found this explanation helpful! If you have any questions or comments, please feel free to leave them in the comments section below. Thanks for watching!###
+
+ Hello and welcome to our video! Today, we're going to talk about a fascinating study that shows how language models can be used to generate functional proteins that are completely different from any known proteins.
+
+Now, you might be wondering what a language model is. Well, it's essentially a computer program that can analyze and understand human language. In this study, researchers used language models to simulate the process of evolution.
+
+They started by generating a large number of random sequences of amino acids, which are the building blocks of proteins. Then, they used the language model to "evolve" these sequences over many generations, just like how organisms evolve over time.
+
+What they found was that the language model was able to generate functional proteins that were completely different from any known proteins. This is a really exciting discovery because it means that we can use language models to explore new areas of protein space that we haven't been able to access before.
+
+So, what does this mean for the future of protein engineering? Well, it opens up a whole new world of possibilities. We can use language models to design proteins with specific functions, such as enzymes that can break down pollutants or proteins that can target cancer cells.
+
+Overall, this study shows the incredible potential of language models in the field of protein engineering. We hope you found this explanation helpful, and if you have any questions, feel free to leave them in the comments below!
+
+ Hello and welcome to our video! Today, we're going to talk about a new technology called ESM3. ESM3 is a cutting-edge language model that can help us understand the sequence, structure, and function of proteins.
+
+Proteins are the building blocks of life, and they play a crucial role in many biological processes. Understanding how proteins work is essential for developing new treatments for diseases and improving our overall health.
+
+ESM3 is a frontier multimodal generative language model, which means it can analyze and generate text, images, and other types of data. This makes it a powerful tool for studying proteins and other complex biological systems.
+
+By using ESM3, researchers can gain new insights into the structure and function of proteins, which can help them develop new drugs and treatments for a wide range of diseases.
+
+In summary, ESM3 is an exciting new technology that has the potential to revolutionize our understanding of proteins and other biological systems. We hope this video has helped you understand the basics of ESM3 and its potential applications. Thank you for watching!
+
+ Hello and welcome to our video! Today, we're going to explain what ESM3 is and how it works.
+
+ESM3 stands for "Expert System for Molecular Modeling." It's a computer program that helps scientists and researchers understand how molecules interact with each other.
+
+One of the key features of ESM3 is its ability to follow complex prompts. This means that it can handle a wide range of instructions and tasks, making it a versatile tool for molecular modeling.
+
+In addition, ESM3 is highly responsive to biological alignment. This means that it can accurately predict how molecules will behave in biological systems, such as cells or tissues.
+
+Overall, ESM3 is a powerful tool for molecular modeling that can help researchers better understand the behavior of molecules in complex biological systems.
+
+Thank you for watching, and we hope this explanation has been helpful!
+
+ Hello and welcome to our video! Today, we're going to explain a reference that might be a bit confusing for non-experts: "We have prompted ESM3 to generate fluorescent proteins with a chain of thought."
+
+Let's break it down step by step:
+
+First, ESM3 stands for "Evolutionary Scale Modeling 3." It's a computer program that uses artificial intelligence to predict the structure of proteins.
+
+Now, what are fluorescent proteins? These are proteins that glow under certain conditions, like when exposed to certain types of light. They're often used in scientific research to track the movement of cells or molecules.
+
+So, when we say "we have prompted ESM3 to generate fluorescent proteins," we mean that we've used the computer program to predict the structure of proteins that will glow under certain conditions.
+
+But what does "with a chain of thought" mean? This refers to the process by which we came up with the idea to use ESM3 to generate fluorescent proteins. Essentially, we had a series of thoughts and ideas that led us to this conclusion.
+
+In summary, "We have prompted ESM3 to generate fluorescent proteins with a chain of thought" means that we used a computer program to predict the structure of proteins that will glow under certain conditions, and we came up with the idea through a series of thoughts and ideas.
+
+We hope this explanation helps! If you have any further questions, feel free to leave them in the comments below. Thanks for watching!
+
+ Hello and welcome to our video! Today, we're going to explain a reference that might be a bit confusing for non-experts. The reference is about a discovery we made while synthesizing different generations of proteins.
+
+We found a protein that was very bright and fluorescent, but it was quite different from any known fluorescent proteins. In fact, it only had a 58% identity with known fluorescent proteins.
+
+So what does this mean? Well, proteins are made up of building blocks called amino acids. The sequence of these amino acids determines the protein's structure and function. When we say that two proteins have a certain percentage of identity, we mean that they have a certain percentage of amino acids in common.
+
+In this case, the protein we found had only 58% of its amino acids in common with known fluorescent proteins. This means that it's a completely new type of fluorescent protein, with a unique structure and function.
+
+This discovery is exciting because it opens up new possibilities for using fluorescent proteins in research and biotechnology. We hope this explanation helps you understand the reference better. Thanks for watching!
+
+ Hello and welcome to our video! Today, we're going to talk about a fascinating discovery in the world of fluorescent proteins.
+
+Fluorescent proteins are proteins that emit light when they are exposed to certain wavelengths of light. They are found in many different organisms, from jellyfish to bacteria, and are used for a variety of purposes, such as attracting prey or signaling to other organisms.
+
+Now, scientists have discovered that two different fluorescent proteins, which are found in very different organisms, are actually quite similar in structure. This is surprising because the organisms that produce these proteins are separated by over five hundred million years of evolution.
+
+So what does this mean? Well, it suggests that these fluorescent proteins have evolved independently in different organisms, rather than being passed down from a common ancestor. This is an example of convergent evolution, where different organisms evolve similar traits in response to similar environmental pressures.
+
+This discovery has important implications for our understanding of evolution and the diversity of life on Earth. It also has practical applications in fields such as biotechnology, where fluorescent proteins are used as tools for studying cells and tissues.
+
+So there you have it! We hope you found this explanation helpful. If you have any questions or comments, please feel free to leave them below. Thanks for watching!
+

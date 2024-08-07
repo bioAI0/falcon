@@ -1,0 +1,3 @@
+
+==============================
+We sought to understand if the base pre-trained ESM3 model has sufficient biological fidelity to generate functional proteins. We set out to create a functional green fluorescent protein (GFP) with low sequence similarity to existing ones. We chose the functionality of fluorescence because it is difficult to achieve, easy to measure, and one of the most beautiful mechanisms in nature.
