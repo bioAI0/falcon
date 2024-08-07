@@ -1,10 +1,24 @@
 # falcon
 Falcon hackathon
 
-sorry its very disorganized
+Check out our demo video here!
 
-esm3 has all my experiments
+https://www.youtube.com/watch?v=yo_9gYhiUjg
+
+Made with AI.  Falcon180B helped extract the facts
+ChatGPT made the script
+OpenAI TTS is the voice
+
+
+sorry the contents here are very disorganized
+
+the /esm3 has all my experiments
 sorry i didn't save the prompts
+but they were really simple
+the point isn't the exact prompts
+i used the point is the vast
+amount of data and information
+we can turn into content
 
 the code is super simple and is in test-ai71
 it just calls the ai71 endpoint
